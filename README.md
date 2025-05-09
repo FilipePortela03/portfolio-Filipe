@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio! Este repositório reúne informações sobre meu cu
 - [Colaboração com a Comunidade](#colaboracao-com-a-comunidade)
 - [Integração com LinkedIn](#integracao-com-linkedin)
 - [Apresentação em Vídeo](#apresentacao-em-video)
-- [Licença](#licenca)
+
 
 
 ## Sobre o Repositório
@@ -31,7 +31,8 @@ As experiências a seguir foram organizadas a partir do meu Google Slides:
 - [Slide de habilidades e experiências pessoais](https://docs.google.com/presentation/d/1PzWjHssBTuI-dqZLR2BiOO_ljqP7MmSufZMEZBidUmE/edit?usp=sharing)
 - [Site com portfólio acadêmico](https://sites.google.com/view/portiflio-de-filipe-portela?usp=sharing)
 - [Currículo pessoal (Google Docs)](https://docs.google.com/document/d/1DTQAo9F4-kM-NLoRLlWnbqeOAgMZoQnkxlZ3JR-D1oo/edit?usp=sharing)
-- [Perfil Pessoal](Google Docs)(https://docs.google.com/document/d/1ylj_rKnrFBB2jWUv4lfWovFGe0SmF5tZy6QAeXYefKQ/edit?usp=sharing)
+- [Perfil Pessoal](https://docs.google.com/document/d/1ylj_rKnrFBB2jWUv4lfWovFGe0SmF5tZy6QAeXYefKQ/edit?usp=sharing)
+
 ## Colaboração com a Comunidade
 
 Participei de um pull request em um repositório público como parte do desafio:
@@ -42,5 +43,4 @@ Participei de um pull request em um repositório público como parte do desafio:
 
 Este repositório está integrado ao meu perfil no LinkedIn :
 
-- [Meu perfil no LinkedIn](https://www.linkedin.com/in filipe-portela-silva-53944a359/
-)
+- [Meu perfil no LinkedIn](https://www.linkedin.com/in/filipe-portela-silva-53944a359/)
