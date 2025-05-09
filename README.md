@@ -22,15 +22,7 @@ Bem-vindo ao meu portfólio! Este repositório reúne informações sobre meu cu
 
 ---
 
-## 📁 Estrutura do Repositório
+## 🌐 LinkedIn
 
-- `curriculo/` – Arquivos relacionados ao meu currículo
-- `experiencias/` – Arquivos ou apresentações de experiências
-- `perfil pessoal/` – Conteúdo sobre meu perfil e trajetória
-
----
-
-## 📌 Contato
-
-Em breve: Integração com meu perfil do LinkedIn.
+🔗 [Conectar no LinkedIn](https://www.linkedin.com/in/filipe-portela-silva-53944a359)
 
