@@ -4,15 +4,12 @@ Bem-vindo ao meu portfólio! Este repositório reúne informações sobre meu cu
 
 ## Índice
 
-
-- [Sobre o Repositório](#sobre-o-repositorio)
+- [Sobre o Repositório](#sobre-o-repositório)
 - [Estrutura de Pastas](#estrutura-de-pastas)
-- [Experiências Documentadas](#experiencias-documentadas)
-- [Colaboração com a Comunidade](#colaboracao-com-a-comunidade)
-- [Integração com LinkedIn](#integracao-com-linkedin)
-- [Apresentação em Vídeo](#apresentacao-em-video)
-
-
+- [Experiências Documentadas](#experiências-documentadas)
+- [Colaboração com a Comunidade](#colaboração-com-a-comunidade)
+- [Integração com LinkedIn](#integração-com-linkedin)
+- [Apresentação em Vídeo](#apresentação-em-vídeo)
 
 ## Sobre o Repositório
 
@@ -41,6 +38,12 @@ Participei de um pull request em um repositório público como parte do desafio:
 
 ## Integração com LinkedIn
 
-Este repositório está integrado ao meu perfil no LinkedIn :
+Este repositório está integrado ao meu perfil no LinkedIn:
 
 - [Meu perfil no LinkedIn](https://www.linkedin.com/in/filipe-portela-silva-53944a359/)
+
+## Apresentação em Vídeo
+
+Você pode assistir à apresentação completa deste portfólio no YouTube:
+
+- [🎥 Assista à Apresentação em Vídeo](https://youtu.be/7u5RIf4VMZY)
